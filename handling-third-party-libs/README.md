@@ -1,7 +1,7 @@
 # Handling third party libraries
 
 Complex software projects typically depend on multiple third party libraries.
-Do not having to reinvent the wheel increases the productivity, and thus speeds up the delivery cycles.
+Not having to reinvent the wheel increases the productivity, and thus speeds up the delivery cycles.
 
 This folder explains different approaches how one can use CMake to handle third party library dependencies and
 link against them.
