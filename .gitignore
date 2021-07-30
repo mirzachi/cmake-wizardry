@@ -5,3 +5,5 @@
 /export-import-package/importing-project/app3/cmake-debug-build/
 /export-import-package/importing-project/app4/cmake-debug-build/
 /handling-third-party-libs/fetch-content-example/cmake-build-debug/
+/handling-third-party-libs/external-project-example/cmake-build-debug/
+/handling-third-party-libs/external-project-example/third_party/cmake-build-debug/
