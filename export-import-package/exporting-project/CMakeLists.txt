@@ -33,4 +33,6 @@ add_subdirectory(lib2)
 
 add_subdirectory(lib3)
 
-add_subdirectory(lib4)
+# First install other 3 libraries and then enable this directory
+# lib4 imports lib1 with find_package. Therefore, lib1 has to be installed first.
+#add_subdirectory(lib4)
